@@ -17,9 +17,9 @@ This pipeline is designed to be used in R environment.
 * data.table
 
 ### deg
-using uci.txt, the average_if value of each genes can be got. Then, using delta11_vs_mock.txt, delta_vs_wt.txt and mock_vs_wt.txt, Deseq2_uci.R, the differentially expressed genes (degs) can be got.
+Using uci.txt, the average_if value of each genes can be got. Then, using delta11_vs_mock.txt, delta_vs_wt.txt and mock_vs_wt.txt, Deseq2_uci.R, the differentially expressed genes (degs) can be got.
 
-###fgsea
+### fgsea
 Using c2.cp.v7.2.symbols.gtm and c2.cp.kegg.v7.2.symbols.gmt, gene name and the t-test value to generate the kegg and canonical pathway. The input files are delta11_vs_mock_fgsea.txt, delta11_vs_we_fgsea.txt and mock_vs_wt_fgsea.txt, by using fgsea_uci.R, can get the kegg and the whole canonical pathways.
 
 ## Contact information
