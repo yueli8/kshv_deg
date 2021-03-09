@@ -22,6 +22,9 @@ Using uci.txt, the average_if value of each genes can be got. Then, using delta1
 ### fgsea
 Using c2.cp.v7.2.symbols.gtm and c2.cp.kegg.v7.2.symbols.gmt, gene name and the t-test value to generate the kegg and canonical pathway. The input files are delta11_vs_mock_fgsea.txt, delta11_vs_we_fgsea.txt and mock_vs_wt_fgsea.txt, by using fgsea_uci.R, can get the kegg and the whole canonical pathways.
 
+### david
+Input the differentially expresed protein into [david functional annotation bioinformatics](https://david.ncifcrf.gov/), generate the GO analysis. Only picked the Description, Gene_Count, P_Value and Enrichment_Ratio value to generate the txt fle. The input files are delta11_vs_mock_bp01.txt, delta11_vs_mock_cc01.txt, delta11_vs_mock_mf01.txt, delta11_vs_wt_bp01.txt files,by using david_uci.R, the plots of the cellular component and molecular function can be drawn.
+
 ## Contact information
 
 * Moom R. Roosam. [roosan@chapman.edu](mailto:roosan@chapman.edu)
