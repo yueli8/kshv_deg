@@ -1,0 +1,5 @@
+Description	Gene_Count	P_Value	Enrichment_Ratio
+transcription from RNA polymerase II promoter	7	0.01636184243938	3.36956771012499
+morphogenesis of embryonic epithelium	2	0.035350426413277	54.8758169934641
+positive regulation of cell proliferation	6	0.038200174929653	3.17950012623075
+in utero embryonic development	4	0.038735117780225	5.28216420257943

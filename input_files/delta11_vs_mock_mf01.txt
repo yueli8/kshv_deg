@@ -1,0 +1,10 @@
+Description	Gene_Count	P_Value	Enrichment_Ratio
+transcription factor activity, sequence-specific DNA binding	17	0.003407271411348	2.24528803799301
+magnesium ion binding	7	0.005379395181059	4.35526315789474
+flavin adenine dinucleotide binding	4	0.013763588446381	7.9328007518797
+transcription factor activity, direct ligand regulated sequence-specific DNA binding	2	0.01557819989441	126.924812030075
+DNA binding	22	0.019946978342197	1.66806801951114
+RNA polymerase II transcription factor activity, ligand-activated sequence-specific DNA binding	3	0.032149076797573	10.5770676691729
+oxysterol binding	2	0.038495025279468	50.7699248120301
+nucleic acid binding	14	0.044626357493461	1.80400748063051
+N,N-dimethylaniline monooxygenase activity	2	0.046015685191344	42.3082706766917
