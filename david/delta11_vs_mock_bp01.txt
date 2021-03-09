@@ -1,0 +1,17 @@
+Description	Gene_Count	P_Value	Enrichment_Ratio
+transcription, DNA-templated	26	0.007762209579882	1.70473829093536
+negative regulation of protein binding	4	0.009785272768795	8.99531270925405
+circadian regulation of gene expression	4	0.009785272768795	8.99531270925405
+regulation of glucose metabolic process	3	0.012415400887249	17.4795281054823
+response to electrical stimulus	3	0.014685434453723	16.0229007633588
+cellular response to sterol	2	0.015424085914335	128.18320610687
+sodium ion transmembrane transport	4	0.019027429798413	7.0237373209244
+regulation of steroid metabolic process	2	0.023047365772887	85.4554707379135
+regulation of endodermal cell fate specification	2	0.023047365772887	85.4554707379135
+T-helper 17 cell differentiation	2	0.023047365772887	85.4554707379135
+regulation of interleukin-1 beta production	2	0.023047365772887	85.4554707379135
+response to interleukin-1	3	0.026854007582217	11.6530187369882
+inflammatory response	8	0.028118436025192	2.70571411307378
+transcription initiation from RNA polymerase II promoter	5	0.030507585937487	4.21655283246284
+negative regulation of tumor necrosis factor production	3	0.034872897588109	10.1197267979108
+regulation of transcription involved in cell fate commitment	2	0.038118649337235	51.2732824427481
